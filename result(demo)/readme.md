@@ -10,6 +10,7 @@
 
 ### 실행방법
 ```
+ + python version 3.5, 3.6, 3.7 로 맞추기
 1. 'https://drive.google.com/file/d/105RYWyyyHLppTAaudntde_ocA8NyMRtL/view?usp=sharing'로가서 c3d_sports1m.h5 파일을 다운받아  trained_models 폴더에 저장한다.
 2. cmd 창을 켜고 Capstone_model/result(demo) 폴더로 이동
 3. pip install -r requirements.txt
